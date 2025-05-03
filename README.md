@@ -1,4 +1,4 @@
-To run the application, you need to have Node.js (version 18 or higher) and npm or yarn installed. You also need to configure environment variables in both the frontend/ and backend/ folders.
+To run the application, you need to have Node.js (version 18 or higher) and npm installed. You also need to configure environment variables in both the frontend/ and backend/ folders.
 
 First, clone the repository and navigate into the project directory. Then, go to the backend/ folder, install the dependencies using npm install, and create a .env file with a PORT environment. For example, you can set PORT=3001. Start the backend server by running npm run start.
 
